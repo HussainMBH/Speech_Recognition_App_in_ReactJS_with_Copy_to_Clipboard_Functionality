@@ -1,0 +1,2 @@
+# Speech_Recognition_App_in_ReactJS_with_Copy_to_Clipboard_Functionality
+Speech Recognition App in React JS with Copy to Clipboard Functionality
